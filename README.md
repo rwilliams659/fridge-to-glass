@@ -4,6 +4,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+[![Build Status](https://travis-ci.org/rwilliams659/fridge-to-glass.svg?branch=master)](https://travis-ci.org/rwilliams659/fridge-to-glass)
 
 
 ![logo](./src/assets/f2glogo.png)
